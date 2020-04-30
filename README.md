@@ -1,1 +1,1 @@
-# Note-Taker-Using-ReactJs
+# Note-Entry-Using-ReactJs
